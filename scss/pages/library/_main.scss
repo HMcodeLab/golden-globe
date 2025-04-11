@@ -1,7 +1,7 @@
 /**
- * Goleden globe
- * Goleden globe is an Online Education Website Template Kit
- * Exclusively on https://1.envato.market/Goleden globe-html
+ * Golden Globe
+ * Golden Globe is an Online Education Website Template Kit
+ * Exclusively on https://1.envato.market/Golden Globe-html
  *
  * @encoding        UTF-8
  * @version         1.0.2
